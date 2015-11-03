@@ -4,7 +4,7 @@
 
 url: 
 title: ТКП
-email: 
+email: ssp.disclosure@gmail.com
 author: 
 description: 'Тайная Космическая Программа, ТКП, Раскрытие, Хранители Солнца, Межпланетный Корпоративный Конгломерат, МКК, Темный Флот, Глобальная Галактическая Лига Наций, Земной Альянс, Космический Альянс, Голубые Авиане, Альянс Сфер, Кори Гуд.'
 
@@ -22,6 +22,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: 
-  - title: github
-    url: 
+    url:   https://twitter.com/ssp_rus
+  - title: email
+    url:   mailto:ssp.disclosure@gmail.com
