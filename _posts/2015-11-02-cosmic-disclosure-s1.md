@@ -1,7 +1,7 @@
 ---
 layout: default
 img: cosmic-disclosure-s1.jpg
-category: Services
+category: cosmic_disclosure
 title: Космическое Раскрытие. Сезон 1.
 description: |
 ---

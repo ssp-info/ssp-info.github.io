@@ -1,7 +1,7 @@
 ---
 layout: default
 img: cosmic-disclosure-s2.jpg
-category: Services
+category: cosmic_disclosure
 title: Космическое Раскрытие. Сезон 2.
 description: |
 ---

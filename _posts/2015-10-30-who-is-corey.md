@@ -1,7 +1,7 @@
 ---
 layout: default
 img: corey.jpg
-category: Services
+category: corey
 title: Кто такой Кори Гуд
 description: |
 ---

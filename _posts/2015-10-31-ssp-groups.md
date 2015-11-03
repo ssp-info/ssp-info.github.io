@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ssp-groups.jpg
-category: Services
+category: ssp_groups
 title: Группировки ТКП
 description: |
 ---
