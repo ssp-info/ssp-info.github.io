@@ -2,7 +2,7 @@
 layout: default
 img: corey.jpg
 category: corey
-title: Кто такой Кори Гуд
+title: <a href="http://inforazum.ru/kori-gud/" title="Статья на Инфоразуме">Кто такой Кори Гуд</a>
 description: |
 ---
 
