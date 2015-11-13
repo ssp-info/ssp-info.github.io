@@ -172,3 +172,30 @@ a.tip {
   cursor: help;
   text-decoration: none;
 }
+
+.archive-date {
+  font-size: 16px;
+  color: #909090;
+}
+
+.content-section-с {
+    padding: 50px 0;
+    background-color: #ffffff;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+
+/* ===SVG icons=== */
+
+.icon-calendar {
+  max-width:            16px;
+  max-height:           16px;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFklEQVQ4jbWSIW4DMRBFfYCCgIKAwgWBAQE9wIKCHqBwYWBhQcGywoLKiud9Sz5EDrAwsEcozDG2xF65TbZqKnWkL+3M2M8zX+tcFcAWeHAzEUK4A7ZzfQeMwMcP/XdgTCkt6uIz8FYDJN0AqVauTQBJMrO+XBrN7FrSETgAbalXugcOko7e+6tSd9WBBLR5z/0ZwCFDWkk6B/iTXB5/NevsTJjZagKklBZABwxZ67zKAAz5e131u2J6DUiVoY9m1pdc0mt+YPLrHKA1s97M+hhjE0LYlDyEsIkxNiWXdHsCuNSDE4CklzJi+WWrkbe5VlZ8+hcP1vlQ571fxhibkscYG+/9ss6/AIBdMei3AnbA6C69+F2fhqnp+mWJLxgAAAAASUVORK5CYII=');
+}
+
+.icon-author {
+max-width:            16px;
+max-height:           16px;
+background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9klEQVQ4jZWRoU4DQRRFKyoqKioQlRWIfgCin1FZUcEn8AlPD7PzzmYzQSBWIJBIZCUSgayoRCAgQRKymGmz7M4mr5NcNXPP3HffaJQ53vsL4BH4SHpyzs1zb7MHeAaajl5M5vT7TwbQmFKEEC5zZqApimJlSbAcAlRVdWUaA3jPAD5FZGwChBA2XYCq3pjMHcguaWsyxRinqnoN1ECtqmtVXQN3QB1C2IjIJGt2zs2B16ECW3rz3i97AFW9NZiPfdz3AMDeCgC+/5lFZFyW5dcZgF9VnbXjz84wH8dYtBNMjAWeiowxTntjpN0/DPRxSHfb9ir/AP21eSvcRUvHAAAAAElFTkSuQmCC');
+}
