@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: 
+url:
 title: ТКП
 email: ssp.disclosure@gmail.com
-author: 
+author:
 description: 'Тайная Космическая Программа, ТКП, Раскрытие, Хранители Солнца, Межпланетный Корпоративный Конгломерат, МКК, Темный Флот, Глобальная Галактическая Лига Наций, Земной Альянс, Космический Альянс, Голубые Авиане, Альянс Сфер, Кори Гуд.'
 
 # ----------------------- #
@@ -25,3 +25,9 @@ social:
     url:   https://twitter.com/ssp_rus
   - title: email
     url:   mailto:ssp.disclosure@gmail.com
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - tasks.py
