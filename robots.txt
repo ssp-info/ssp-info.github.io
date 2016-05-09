@@ -1,4 +1,10 @@
 User-agent: *
-Disallow:
+Disallow: /corey/
+Disallow: /ssp_groups/
+Disallow: /ssp_tech/
+Disallow: /cosmic_disclosure_s1/
+Disallow: /cosmic_disclosure_s2/
+Disallow: /cosmic_disclosure_s3/
+Disallow: /cosmic_disclosure_s4/
 
 Sitemap: https://ssp-info.github.io/sitemap.xml
